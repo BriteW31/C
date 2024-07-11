@@ -1,3 +1,6 @@
+// Note: this was a project based on hidden functions provided, so the words.h get_words function and 
+//     the max_words variable will need to be defined.
+
 #include <stdio.h>
 #include <string.h>
 #include "hangman-io.h"
